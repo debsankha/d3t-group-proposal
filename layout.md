@@ -5,5 +5,6 @@ figures/d3t-science/d3t-science.png
 section_Conceptual_structure_of_the__.tex
 section_Subprojects_Here_we_will__.tex
 subsection_Network_Structure_and_Dynamics__.tex
+subsection_Dynamical_Stochastics_and_Patterns__.tex
 References_.tex
 Figure Legends.tex
