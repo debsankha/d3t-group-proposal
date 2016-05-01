@@ -7,5 +7,6 @@ section_Subprojects_Here_we_will__.tex
 subsection_Network_Structure_and_Dynamics__.tex
 subsection_Dynamical_Stochastics_and_Patterns__.tex
 subsection_Computational_Science_and_Engineering__.tex
+subsection_Learning_and_Prediction_LPR__.tex
 References_.tex
 Figure Legends.tex
