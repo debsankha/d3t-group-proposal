@@ -2,7 +2,6 @@ How to use.tex
 Authors.tex
 Abstract_.tex
 figures/d3t-science/d3t-science.png
-Consent.tex
 contributions.tex
 competing interests.tex
 Grant Information.tex
