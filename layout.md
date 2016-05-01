@@ -1,7 +1,6 @@
 How to use.tex
 Authors.tex
 section_Introduction_This_is_a__.tex
-Abstract_.tex
 figures/d3t-science/d3t-science.png
 section_Conceptual_structure_of_the__.tex
 section_Subprojects_Here_we_will__.tex
