@@ -2,7 +2,6 @@ How to use.tex
 Authors.tex
 Abstract_.tex
 figures/d3t-science/d3t-science.png
-results.tex
 Tables.tex
 figures/figure_1/figure_1.jpg
 discussion.tex
