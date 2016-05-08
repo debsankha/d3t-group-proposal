@@ -5,7 +5,7 @@ section_Introduction_This_is_a__.tex
 figures/d3t-science/d3t-science.png
 section_Conceptual_structure_of_the__.tex
 section_Subprojects_Here_we_will__.tex
-subsection_Network_Structure_and_Dynamics__.tex
+subsection_Project_D3T_NET_Focus__.tex
 subsection_Dynamical_Stochastics_and_Patterns__.tex
 subsection_Computational_Science_and_Engineering__.tex
 subsection_Learning_and_Prediction_LPR__.tex
