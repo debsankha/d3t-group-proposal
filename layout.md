@@ -11,4 +11,3 @@ subsection_Project_D3T_COS_Focus__.tex
 subsection_Project_D3T_PRE_Focus__.tex
 subsection_Project_D3T_OPT_Focus__.tex
 References_.tex
-Figure Legends.tex
