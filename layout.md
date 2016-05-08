@@ -8,7 +8,7 @@ section_Subprojects_Here_we_will__.tex
 subsection_Project_D3T_NET_Focus__.tex
 subsection_Project_D3T_DYN_Focus__.tex
 subsection_Project_D3T_COS_Focus__.tex
-subsection_Learning_and_Prediction_LPR__.tex
+subsection_Project_D3T_PRE_Focus__.tex
 subsection_Optimisation_OPT__.tex
 References_.tex
 Figure Legends.tex
