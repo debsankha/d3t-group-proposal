@@ -3,6 +3,7 @@ Authors.tex
 section_Abstract__.tex
 section_Introduction_Demand_Driven_Directed__.tex
 section_Conceptual_structure_of_the__.tex
+figures/d3t-onion2/d3t-onion2.png
 subsection_Domains_begin_itemize_item__.tex
 section_Subprojects_Here_we_will__.tex
 subsection_Project_D3T_NET_Focus__.tex
